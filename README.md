@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+Running your project is simple once you have the files on your computer. You'll need to have Node.js installed first.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Open your Terminal: Navigate to your project folder using your terminal or command prompt. For your specific folder, the command would be:
 
-## Available Scripts
+Bash
 
-In the project directory, you can run:
+cd D:\task\event-management
+Install Dependencies: Run this command to install all the necessary libraries the project needs. You only have to do this once.
 
-### `npm start`
+Bash
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm install
+Start the Server: After the installation is complete, run this command to start the web application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Bash
 
-### `npm test`
+npm start
+This will open the website in your browser at http://localhost:3000.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The README File
+You can copy and paste the text below into a file named README.md in the main folder of your project.
 
-### `npm run build`
+Event Management Dashboard
+This project is a single-page application built with React that allows users to browse events, view details, and filter the data.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Features
+Live Search & Filter: Easily find events by typing in the search bar or by using the filters for event type and location.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Responsive Design: The layout automatically adjusts to fit any screen, from phones to desktops.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Event Details: Click on an event to see all its information on a separate page.
 
-### `npm run eject`
+How to Get It Running:
+Download the Code: Get the project files from GitHub.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Bash
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+git clone <https://github.com/vimalprasaths/Event-Management-Using-react.git>
+cd <event-management>
+Install Dependencies: Run npm install in your terminal.
+Install Dependencies: Run npm install Bootstrap in your terminal.
+Install Dependencies: Run npm install react-router-dom in you terminal.
+Note:kindly Check react-router-dom  version save in the package.json.
+If not Save means re install  react-router-dom--save
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+After intall all the dependencies : Run npm start in your terminal. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Start the Website: Run npm start and visit http://localhost:3000 in your web browser.
 
-## Learn More
+File Structure 📁
+Here's a simple map of where everything is in the project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+/event-management
+├── public/                 (Files the web browser sees)
+├── src/                    (All the code for the website)
+│   ├── components/        (The reusable parts of the website)
+│   ├── images/             (The pictures for the events)
+│   ├── Data.json           (The file with all event information)
+│   └── ...
+└── package.json            (A list of all the tools the app needs)
