@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import HomePage from './componentss/Homepage';
-import EventListPage from './componentss/Eventlist';
-import EventDetailPage from './componentss/Event';
-import AllEventsPage from './componentss/Allevent';
-import Header from './componentss/Header';
-import Footer from './componentss/Footer';
+import HomePage from './components/Homepage';
+import EventListPage from './components/Eventlist';
+import EventDetailPage from './components/Event';
+import AllEventsPage from './components/Allevent';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
