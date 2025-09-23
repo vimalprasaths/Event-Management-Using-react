@@ -1,0 +1,572 @@
+{
+  "events": {
+    "birthdays": [
+      {
+        "id": 1,
+        "title": "John's 25th Birthday Celebration",
+        "description": "A fun-filled birthday party with music, games, and cake cutting.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "date_time": "2025-10-15T19:00:00",
+        "organizer": "John's Family",
+        "event_image": "https://images.pexels.com/photos/1769399/pexels-photo-1769399.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Sophia's Sweet 16",
+        "description": "A sweet sixteen party with music, friends, and a grand dinner.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "New York",
+          "state": "New York",
+          "country": "USA"
+        },
+        "date_time": "2025-11-02T17:00:00",
+        "organizer": "Sophia's Parents",
+        "event_image": "https://images.pexels.com/photos/1572990/pexels-photo-1572990.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "David's 50th Birthday Bash",
+        "description": "A golden jubilee birthday party with live music and cocktails.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "London",
+          "state": "Greater London",
+          "country": "UK"
+        },
+        "date_time": "2025-12-20T19:30:00",
+        "organizer": "David's Family",
+        "event_image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Lily's 5th Birthday Party",
+        "description": "Kids' birthday party with balloons, games, and magic show.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "country": "India"
+        },
+        "date_time": "2025-09-28T14:00:00",
+        "organizer": "Lily's Parents",
+        "event_image": "https://images.pexels.com/photos/2072166/pexels-photo-2072166.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Maya's 1st Birthday",
+        "description": "A cute themed birthday party for baby Maya with family and friends.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "date_time": "2025-10-10T16:00:00",
+        "organizer": "Maya's Parents",
+        "event_image": "https://images.pexels.com/photos/3476007/pexels-photo-3476007.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Leo's 30th Birthday Bash",
+        "description": "A grand 30th birthday celebration with cocktails and live music.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Sydney",
+          "state": "New South Wales",
+          "country": "Australia"
+        },
+        "date_time": "2025-11-18T19:30:00",
+        "organizer": "Leo & Friends",
+        "event_image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Aarav's 10th Birthday",
+        "description": "A superhero-themed birthday party with fun games for kids.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "date_time": "2025-09-29T15:00:00",
+        "organizer": "Aarav's Parents",
+        "event_image": "https://images.pexels.com/photos/2422265/pexels-photo-2422265.jpeg"
+      },
+      {
+        "id": 8,
+        "title": "Emma's 21st Birthday",
+        "description": "A glamorous 21st birthday party at a rooftop venue.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+        },
+        "date_time": "2025-12-12T20:00:00",
+        "organizer": "Emma & Friends",
+        "event_image": "https://images.pexels.com/photos/3171822/pexels-photo-3171822.jpeg"
+      },
+      {
+        "id": 9,
+        "title": "Grandpa Joseph's 80th Birthday",
+        "description": "A family gathering to celebrate Joseph's milestone 80th birthday.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Kochi",
+          "state": "Kerala",
+          "country": "India"
+        },
+        "date_time": "2025-11-05T12:00:00",
+        "organizer": "Joseph's Family",
+        "event_image": "https://images.pexels.com/photos/3661191/pexels-photo-3661191.jpeg"
+      },
+      {
+        "id": 10,
+        "title": "Sophia's Garden Birthday Party",
+        "description": "An outdoor birthday celebration with a floral theme.",
+        "event_type": "Birthday",
+        "location": {
+          "city": "Paris",
+          "state": "Île-de-France",
+          "country": "France"
+        },
+        "date_time": "2025-10-22T17:00:00",
+        "organizer": "Sophia's Parents",
+        "event_image": "https://images.pexels.com/photos/1572990/pexels-photo-1572990.jpeg"
+      }
+    ],
+    "marriages": [
+      {
+        "id": 11,
+        "title": "Arun & Priya's Wedding",
+        "description": "A traditional wedding ceremony followed by a grand reception.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Coimbatore",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "date_time": "2025-12-05T10:00:00",
+        "organizer": "The Families of Arun & Priya",
+        "event_image": "https://images.pexels.com/photos/10398642/pexels-photo-10398642.jpeg"
+      },
+      {
+        "id": 12,
+        "title": "Ravi & Anjali's Engagement",
+        "description": "Engagement ceremony followed by a family dinner.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "date_time": "2025-09-30T11:00:00",
+        "organizer": "Ravi & Anjali Families",
+        "event_image": "https://images.pexels.com/photos/7403980/pexels-photo-7403980.jpeg"
+      },
+      {
+        "id": 13,
+        "title": "Mark & Emma's Wedding",
+        "description": "A beach wedding with a sunset view and live music.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Miami",
+          "state": "Florida",
+          "country": "USA"
+        },
+        "date_time": "2025-11-25T17:00:00",
+        "organizer": "Mark & Emma",
+        "event_image": "https://images.pexels.com/photos/1769399/pexels-photo-1769399.jpeg"
+      },
+      {
+        "id": 14,
+        "title": "Raj & Kavya's Wedding",
+        "description": "Traditional South Indian wedding with cultural performances.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "date_time": "2025-12-15T09:30:00",
+        "organizer": "Raj & Kavya Families",
+        "event_image": "https://images.pexels.com/photos/10398642/pexels-photo-10398642.jpeg"
+      },
+      {
+        "id": 15,
+        "title": "Oliver & Mia's Wedding",
+        "description": "Elegant wedding in a countryside vineyard.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Milan",
+          "state": "Lombardy",
+          "country": "Italy"
+        },
+        "date_time": "2025-10-12T16:00:00",
+        "organizer": "Oliver & Mia",
+        "event_image": "https://images.pexels.com/photos/3661191/pexels-photo-3661191.jpeg"
+      },
+      {
+        "id": 16,
+        "title": "Alex & Grace's Wedding",
+        "description": "Garden wedding with floral decorations and live orchestra.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "London",
+          "state": "Greater London",
+          "country": "UK"
+        },
+        "date_time": "2025-09-27T15:30:00",
+        "organizer": "Alex & Grace",
+        "event_image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg"
+      },
+      {
+        "id": 17,
+        "title": "Liam & Zoe's Wedding",
+        "description": "Modern wedding at a luxury hotel with buffet dinner.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Dubai",
+          "state": "Dubai",
+          "country": "UAE"
+        },
+        "date_time": "2025-11-08T18:00:00",
+        "organizer": "Liam & Zoe",
+        "event_image": "https://images.pexels.com/photos/7403980/pexels-photo-7403980.jpeg"
+      },
+      {
+        "id": 18,
+        "title": "Aditya & Neha's Wedding",
+        "description": "Lavish wedding with Bollywood dance performances.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "date_time": "2025-12-02T20:00:00",
+        "organizer": "Aditya & Neha",
+        "event_image": "https://images.pexels.com/photos/10398642/pexels-photo-10398642.jpeg"
+      },
+      {
+        "id": 19,
+        "title": "Chris & Anna's Wedding",
+        "description": "Christian wedding with church ceremony and reception.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+        },
+        "date_time": "2025-10-29T14:00:00",
+        "organizer": "Chris & Anna",
+        "event_image": "https://images.pexels.com/photos/1572990/pexels-photo-1572990.jpeg"
+      },
+      {
+        "id": 20,
+        "title": "Wei & Lin's Wedding",
+        "description": "Chinese traditional wedding with tea ceremony and banquet.",
+        "event_type": "Marriage",
+        "location": {
+          "city": "Beijing",
+          "state": "Beijing",
+          "country": "China"
+        },
+        "date_time": "2025-11-18T10:30:00",
+        "organizer": "Wei & Lin Families",
+        "event_image": "https://images.pexels.com/photos/3171822/pexels-photo-3171822.jpeg"
+      }
+    ],
+    "culturals": [
+      {
+        "id": 21,
+        "title": "College Cultural Fest 2025",
+        "description": "An annual cultural event featuring music, dance, drama, and art competitions.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "country": "India"
+        },
+        "date_time": "2025-11-20T09:00:00",
+        "organizer": "XYZ College Student Union",
+        "event_image": "https://images.pexels.com/photos/1618218/pexels-photo-1618218.jpeg"
+      },
+      {
+        "id": 22,
+        "title": "Techno Fest 2025",
+        "description": "Cultural and technical fest featuring hackathons, concerts, and exhibitions.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "country": "India"
+        },
+        "date_time": "2025-12-10T10:00:00",
+        "organizer": "Techno University",
+        "event_image": "https://images.pexels.com/photos/1500094/pexels-photo-1500094.jpeg"
+      },
+      {
+        "id": 23,
+        "title": "Symphony Night",
+        "description": "A cultural fest highlighting classical music and instrumental performances.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Vienna",
+          "state": "Vienna",
+          "country": "Austria"
+        },
+        "date_time": "2025-11-12T18:00:00",
+        "organizer": "Vienna University",
+        "event_image": "https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg"
+      },
+      {
+        "id": 24,
+        "title": "Dance Fiesta 2025",
+        "description": "Dance competition featuring teams from different colleges.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Chandigarh",
+          "state": "Punjab",
+          "country": "India"
+        },
+        "date_time": "2025-12-05T11:00:00",
+        "organizer": "Punjab University",
+        "event_image": "https://images.pexels.com/photos/10398642/pexels-photo-10398642.jpeg"
+      },
+      {
+        "id": 25,
+        "title": "Drama Carnival",
+        "description": "A fest showcasing theatre plays and stage dramas.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "London",
+          "state": "Greater London",
+          "country": "UK"
+        },
+        "date_time": "2025-09-28T15:00:00",
+        "organizer": "London Arts College",
+        "event_image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg"
+      },
+      {
+        "id": 26,
+        "title": "Art Expo 2025",
+        "description": "An exhibition of paintings, crafts, and installations by students.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Paris",
+          "state": "Île-de-France",
+          "country": "France"
+        },
+        "date_time": "2025-10-19T10:00:00",
+        "organizer": "Paris Art College",
+        "event_image": "https://images.pexels.com/photos/2072166/pexels-photo-2072166.jpeg"
+      },
+      {
+        "id": 27,
+        "title": "Music Carnival",
+        "description": "A cultural event focusing on rock bands and solo performances.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Germany"
+        },
+        "date_time": "2025-11-14T17:00:00",
+        "organizer": "Berlin Music Academy",
+        "event_image": "https://images.pexels.com/photos/3661191/pexels-photo-3661191.jpeg"
+      },
+      {
+        "id": 28,
+        "title": "Food & Culture Fest",
+        "description": "Food stalls, fashion shows, and cultural programs.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "country": "India"
+        },
+        "date_time": "2025-12-22T12:00:00",
+        "organizer": "Kolkata University",
+        "event_image": "https://images.pexels.com/photos/10398642/pexels-photo-10398642.jpeg"
+      },
+      {
+        "id": 29,
+        "title": "Film & Media Fest",
+        "description": "Short films, documentaries, and photography competitions.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "USA"
+        },
+        "date_time": "2025-10-27T14:00:00",
+        "organizer": "UCLA",
+        "event_image": "https://images.pexels.com/photos/1572990/pexels-photo-1572990.jpeg"
+      },
+      {
+        "id": 30,
+        "title": "Fashion Show 2025",
+        "description": "Annual fashion show featuring designs from top students.",
+        "event_type": "Cultural Fest",
+        "location": {
+          "city": "Milan",
+          "state": "Lombardy",
+          "country": "Italy"
+        },
+        "date_time": "2025-11-30T19:00:00",
+        "organizer": "Milan Fashion College",
+        "event_image": "https://images.pexels.com/photos/3171822/pexels-photo-3171822.jpeg"
+      }
+    ],
+    "movies": [
+      {
+        "id": 31,
+        "title": "Movie Release: The Lost Galaxy",
+        "description": "Premiere of the much-awaited sci-fi thriller 'The Lost Galaxy'.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "date_time": "2025-10-25T18:30:00",
+        "organizer": "Star Films Productions",
+        "event_image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg"
+      },
+      {
+        "id": 32,
+        "title": "Movie Premiere: Eternal Love",
+        "description": "Romantic drama movie premiere night.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "USA"
+        },
+        "date_time": "2025-11-12T20:00:00",
+        "organizer": "Universal Pictures",
+        "event_image": "https://images.pexels.com/photos/7403980/pexels-photo-7403980.jpeg"
+      },
+      {
+        "id": 33,
+        "title": "Action Blockbuster: Iron Fist",
+        "description": "High-octane action movie release.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "date_time": "2025-12-01T18:00:00",
+        "organizer": "South Star Studios",
+        "event_image": "https://images.pexels.com/photos/1769399/pexels-photo-1769399.jpeg"
+      },
+      {
+        "id": 34,
+        "title": "Fantasy Epic: The Dragon's Curse",
+        "description": "Premiere of fantasy adventure film.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "London",
+          "state": "Greater London",
+          "country": "UK"
+        },
+        "date_time": "2025-09-29T19:30:00",
+        "organizer": "Epic Studios",
+        "event_image": "https://images.pexels.com/photos/1572990/pexels-photo-1572990.jpeg"
+      },
+      {
+        "id": 35,
+        "title": "Comedy Night: Laugh Out Loud",
+        "description": "Premiere of the new comedy film with stand-up acts.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+        },
+        "date_time": "2025-11-08T17:00:00",
+        "organizer": "Maple Films",
+        "event_image": "https://images.pexels.com/photos/3476007/pexels-photo-3476007.jpeg"
+      },
+      {
+        "id": 36,
+        "title": "Thriller Premiere: Dark Secrets",
+        "description": "Edge-of-the-seat thriller movie release.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "date_time": "2025-12-18T21:00:00",
+        "organizer": "CineWorld India",
+        "event_image": "https://images.pexels.com/photos/2072166/pexels-photo-2072166.jpeg"
+      },
+      {
+        "id": 37,
+        "title": "Animated Adventure: Jungle Friends",
+        "description": "Release of a fun animated film for kids and families.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Sydney",
+          "state": "New South Wales",
+          "country": "Australia"
+        },
+        "date_time": "2025-10-30T16:00:00",
+        "organizer": "Aussie Animations",
+        "event_image": "https://images.pexels.com/photos/2422265/pexels-photo-2422265.jpeg"
+      },
+      {
+        "id": 38,
+        "title": "Horror Release: Haunted Nights",
+        "description": "Horror movie premiere just before Halloween.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "country": "USA"
+        },
+        "date_time": "2025-10-31T22:00:00",
+        "organizer": "Scare Studios",
+        "event_image": "https://images.pexels.com/photos/3661191/pexels-photo-3661191.jpeg"
+      },
+      {
+        "id": 39,
+        "title": "Sci-Fi Adventure: Beyond Mars",
+        "description": "Premiere of futuristic sci-fi adventure.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Germany"
+        },
+        "date_time": "2025-11-22T20:00:00",
+        "organizer": "Galaxy Pictures",
+        "event_image": "https://images.pexels.com/photos/1572990/pexels-photo-1572990.jpeg"
+      },
+      {
+        "id": 40,
+        "title": "Rom-Com: Love in Paris",
+        "description": "A romantic comedy film premiere in Paris.",
+        "event_type": "Movie Release",
+        "location": {
+          "city": "Paris",
+          "state": "Île-de-France",
+          "country": "France"
+        },
+        "date_time": "2025-12-14T19:00:00",
+        "organizer": "Paris Motion Films",
+        "event_image": "https://images.pexels.com/photos/3171822/pexels-photo-3171822.jpeg"
+      }
+    ]
+  }
+}
