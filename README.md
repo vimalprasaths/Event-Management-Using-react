@@ -17,8 +17,6 @@ Bash
 npm start
 This will open the website in your browser at http://localhost:3000.
 
-The README File
-You can copy and paste the text below into a file named README.md in the main folder of your project.
 
 Event Management Dashboard
 This project is a single-page application built with React that allows users to browse events, view details, and filter the data.
